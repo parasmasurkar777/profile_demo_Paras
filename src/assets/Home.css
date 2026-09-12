@@ -1,0 +1,9 @@
+body{
+    background:aqua;
+}
+h2{
+    color:grey;
+}
+.c1{
+    text-shadow: 5px 5px 3px blue;
+}
